@@ -54,10 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="181" selection-end="181" vertical-scroll-proportion="0.05923345" vertical-offset="0" max-vertical-offset="935">
+            <state line="11" column="60" selection-start="403" selection-end="425" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.076662906" vertical-offset="0" max-vertical-offset="887">
               <folding />
             </state>
           </provider>
@@ -80,6 +89,7 @@
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -301,16 +311,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="887">
+        <state line="11" column="60" selection-start="403" selection-end="425" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="935">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="181" selection-end="181" vertical-scroll-proportion="0.05923345" vertical-offset="0" max-vertical-offset="935">
+        <state line="4" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.076662906" vertical-offset="0" max-vertical-offset="887">
           <folding />
         </state>
       </provider>
