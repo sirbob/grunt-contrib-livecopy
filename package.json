@@ -1,0 +1,49 @@
+{
+  "name": "grunt-livecopy",
+  "description": "Watches SOURCE directory for changes and copies them to TARGET directory. At the mo it doesn\\'t watch folders.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/sirbob/grunt-contrib-livecopy",
+  "author": {
+    "name": "sirbob",
+    "email": "dkrawcewicz@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirbob/grunt-contrib-livecopy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sirbob/grunt-contrib-livecopy/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sirbob/grunt-contrib-livecopy/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">=0.10.10"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "rimraf": "~2.2.2",
+    "mkdirp": "~0.3.5",
+    "ncp": "~0.4.2",
+    "q": "~0.9.7",
+    "chokidar": "~0.7.1"
+  }
+}
